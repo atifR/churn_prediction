@@ -1,0 +1,14 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# local agent tooling
+.agents/
+.claude/
+
+churn_predict.ipynb
